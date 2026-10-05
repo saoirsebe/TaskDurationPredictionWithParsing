@@ -24,4 +24,5 @@ public class UserTask {
         this.startDateTime = LocalDateTime.now();
         this.completed = false;
     }
+
 }
